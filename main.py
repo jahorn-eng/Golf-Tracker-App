@@ -340,7 +340,7 @@ planning=["plan.pdf", "design.pdf"],
 links=["https://github.com/jahorn-eng/Golf-Tracker-App"]
 )
 hide_debug_information()
-set_website_framed(False) the website needs this information to where should I add this information
+set_website_framed(False)
 
 
 start_server(State("", [], "Ready.", 0.0, ""))
