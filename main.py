@@ -336,7 +336,7 @@ set_site_information(
 author="Josh Horning",
 description="Tracks a round of golf and stores the stats.",
 sources="Thanks to the Drafter docs, Friends, and LLM's.",
-planning=["plan.pdf", "design.pdf"],
+planning=["Copy of CS1 Final Project 0_ Pick a Problem.pdf", "Copy of CS1 Final Project 1: Design.pdf"],
 links=["https://github.com/jahorn-eng/Golf-Tracker-App"]
 )
 hide_debug_information()
